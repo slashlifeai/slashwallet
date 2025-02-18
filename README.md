@@ -8,6 +8,8 @@ The project is divided into three main components:
 - https://issuer.wallet.slashlife.ai :: The web-based issuer instance for issuing personal identity documents, membership cards, and other digital documents, forked from https://issuer.eudiw.dev/.
 - https://verifier.wallet.slashlife.ai :: The web-based verifier instance for verifying personal identity documents, membership cards, and other digital documents, forked from https://verifier.eudiw.dev/.
 
+see [Slash Wallet Design Documents](https://amber-smartphone-dfd.notion.site/SlashWallet-190a5f6d48f980c3ad41f1ac2a485eb1?pvs=4) for more information.
+
 # References
 
 - [EUDI Wallet Reference Implementation GitHub](https://github.com/eu-digital-identity-wallet)
